@@ -17,9 +17,8 @@ https://dacon.io/competitions/official/236117/overview/description
 
 자본시장 데이터 및 공공 데이터를 활용하여 높은 안정성과 수익률을 기대할 수 있는 주식 투자 알고리즘을 만들어주세요.
 
-(Topic) - 제공된 데이터 셋을 기반으로 주식 투자 알고리즘 개발
+### (Topic) - 제공된 데이터 셋을 기반으로 주식 투자 알고리즘 개발
 
-(MODEL) - Prophet : 시계열 예측에 뛰어난 성능을 보이는 Prophet 알고리즘을 사용
+### (MODEL) - Prophet : 시계열 예측에 뛰어난 성능을 보이는 Prophet 알고리즘을 사용
 
-
-(RESULT) - 13 / 1300 ( 투자 성과 : 0.45277)
+### (RESULT) - 13 / 1300 ( 투자 성과 : 0.45277)
